@@ -8,6 +8,32 @@ Approach:
 - Define Analytical Focus: Determine which data points (e.g., revenue, sales trends, customer behavior) are critical for answering these questions.
 - Plan the Analysis: Establish a structured approach to how the data will be analyzed, ensuring that the insights generated will be directly relevant to the strategic goals of the business.
 
+# Questions that you can frame with the given data from the online retail shop, there are several analytical approaches you can take. Here's what you can do with each data field:
+
+1. InvoiceNo
+Analysis: Track the number of transactions, analyze sales trends over time, and identify peak purchasing periods.
+
+2. StockCode
+Analysis: Analyze product-level performance, identify top-selling items, and monitor inventory levels.
+
+3. Description
+Insights: Gain insights into product preferences, highlight in-demand categories, and tailor marketing efforts.
+
+4. Quantity
+Analysis: Analyze purchase quantities per transaction, calculate average order size, and monitor bulk purchasing trends.
+
+5. InvoiceDate
+Analysis: Analyze sales trends over time, identify seasonal patterns, and forecast future sales.
+
+6. UnitPrice
+Analysis: Analyze pricing strategies, assess price sensitivity, and calculate average revenue per product.
+
+7. CustomerID
+Analysis: Segment customers based on purchasing behavior, analyze customer lifetime value, and track repeat purchases.
+
+8. Country
+Insights: Understand regional demand patterns
+
 Outcome: 
 A well-defined framework that guides the subsequent tasks, ensuring that the analysis and visualizations are aligned with the business leaders’ expectations and needs.
 
